@@ -138,6 +138,17 @@ text-decoration:none;
 <!--播放器-->
 <link rel="stylesheet" href="http://ismallcolor.com/css/player.css">
 </head>
+
+
+
+
+
+
+
+
+
+
+
 <body>
   <div class="willerce">
     <div>
