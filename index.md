@@ -152,7 +152,7 @@ text-decoration:none;
 	  <a class="anniu" href="/" >关于我</a>	  
 	 </div>
   </div>
-     <span class="copyright">&copy; 2016<a href="/"> T Z </a></span>
+     <span class="copyright">&copy; 2020<a href="/"> C S Y </a></span>
    </div>
   </div>
 <canvas height="100%" width="100%" style="position: fixed; top: 0px; left: 0px; z-index: -1; opacity: 1;"  id="canvas"></canvas>
@@ -338,9 +338,9 @@ init();
 
 <script>
 	var	playlist = [
-	{title:"豆粕小王子BGM ",artist:"豆粕小王子",mp3:"http://p2.music.126.net/4Av1qceFkudhyrMs4_VZMQ==/7754855511396606.mp3",cover:"http://q2.qlogo.cn/headimg_dl?bs=Q2357669948&dst_uin=2357669948&dst_uin=2357669948&;dst_uin=2357669948&spec=100&url_enc=0&referer=bu_interface&term_type=PC?param=106x106",},	
-	{title:"你好，朋友 ",artist:"豆粕小王子",mp3:"http://m2.music.126.net/g1lbjWXV3gzRqBYt9jpkGg==/3427177779705191.mp3",cover:"http://p1.qzone.la/upload/4/fi60h7ow.png?param=106x106",},
-	{title:"Sun",artist:"Steerner",mp3:"http://p2.music.126.net/EB4EZJOoEhnifn1EdALgMQ==/1388683193786247.mp3",cover:"http://p3.music.126.net/xEuUgUnosjgJxpKANkJX3g==/1401877332796018.jpg?param=106x106",},
+	{title:"豆粕小王子BGM ",artist:"豆粕小王子",mp3:"uscsy.github.io/一个人挺好.mp3",},	
+	{title:"你好，朋友 ",artist:"豆粕小王子",mp3:"uscsy.github.io/一个人挺好.mp3",},
+	{title:"Sun",artist:"Steerner",mp3:"uscsy.github.io/一个人挺好.mp3",},
 
 ];
   var isRotate = true;
